@@ -1,0 +1,17 @@
+digraph {
+    M -> L [label="2"];
+    M -> K [label="5"];
+    K -> G [label="5"];
+    J -> I [label="30"];
+    I -> H [label="5"];
+    G -> H [label="30"];
+    F -> E [label="5"];
+    F -> G [label="40"];
+    E -> F [label="5"];
+    E -> M [label="30"];
+    D -> E [label="10"];
+    D -> J [label="25"];
+    B -> C [label="10"];
+    A -> B [label="10"];
+    A -> C [label="10"];
+}
