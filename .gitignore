@@ -12,4 +12,5 @@ tp9/cmake-build-debug/
 *.out
 *.o
 !teacher.o
+/.idea
 
