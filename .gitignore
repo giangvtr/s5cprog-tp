@@ -1,0 +1,15 @@
+tp1/cmake-build-debug/
+tp2/cmake-build-debug/
+tp3/cmake-build-debug/
+tp4/cmake-build-debug/
+tp5/cmake-build-debug/
+tp6/cmake-build-debug/
+tp7/cmake-build-debug/
+tp8/cmake-build-debug/
+tp9/cmake-build-debug/
+*.d
+*.exe
+*.out
+*.o
+!teacher.o
+
