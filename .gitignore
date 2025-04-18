@@ -13,4 +13,5 @@ tp9/cmake-build-debug/
 *.o
 !teacher.o
 /.idea
+*/docs
 
