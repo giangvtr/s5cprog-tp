@@ -17,23 +17,40 @@ This practical course aims to familiarize me with:
 
 ## Summary of Practical Exercises
 *   **TP1: Stack Data Structure**
-    *   Implementing an integer stack (LIFO), using a variadic function (`fill_stack`), evaluating postfix expressions with a stack, using function pointers for operators, mastering the `static` keyword, introducing unit testing, and writing `Makefile` for multiple programs. 
+    *   Implementing an integer stack (LIFO), using a variadic function (`fill_stack`)
+    *   Evaluating postfix expressions with a stack
+    *   Using function pointers for operators
+    *   Introducing unit testing, and writing `Makefile` for multiple programs. 
 *   **TP2: Image Structure: Dynamic Allocation and Binary Files**
-    *   Dynamic memory allocation for a square image structure, implementing functions for creation, deallocation, access (getters/setters), filling, and displaying. Introduction to reading binary files to load images. 
+    *   Dynamic memory allocation for a square image structure
+    *   Implementing functions for creation, deallocation, access (getters/setters), filling, and displaying
+    *   Introduction to reading binary files to load images. 
 *   **TP3: RGB Image: Dynamic Allocation**
-    *   Deepening dynamic allocation for an RGB image structure (with pixel representation in memory as a 1D array), linking with third-party binary code (`BMPFile_teacher.o`), and writing a `Makefile` integrating this code for saving in BMP format.
+    *   Deepening dynamic allocation for an RGB image structure (with pixel representation in memory as a 1D array)
+    *   Linking with third-party binary code (`BMPFile_teacher.o`)
 *   **TP4: Binary Files: Bitmap Format**
-    *   Reading and writing binary files by exploring the BMP image format. Manipulating headers (File Header and DIB Header) and handling pixel line padding. 
+    *   Reading and writing binary files by exploring the BMP image format
+    *   Manipulating headers (File Header and DIB Header)
+    *   Handling pixel line padding. 
 *   **TP5: Multimedia Application: Model with a List**
-    *   Implementing a singly linked list module to manage a collection of multimedia objects (photos and videos), using dynamic memory allocation with lists, and introducing software design that promotes code reuse. 
+    *   Implementing a singly linked list module to manage a collection of multimedia objects (photos and videos), using dynamic memory allocation with lists
+    *   Introducing software design that promotes code reuse. 
 *   **TP6: Doubly Linked List: Basic Memory Leak Detector**
-    *   Implementing a doubly linked list with sentinel nodes, manipulating addresses (including `void` pointers), overloading functions with macros, and using the doubly linked list to implement a basic memory leak detector. 
+    *   Implementing a doubly linked list with sentinel nodes
+    *   Manipulating addresses (including `void` pointers)
+    *   Overloading functions with macros
+    *   Using the doubly linked list to implement a basic memory leak detector. 
 *   **TP7: Balanced Trees: AVL Trees**
-    *   Manipulating binary search trees, using recursive programming to implement AVL tree properties (self-balancing through rotations). Introduction to `qsort` and reading data from a binary file to construct a tree. 
+    *   Manipulating binary search trees
+    *   Using recursive programming to implement AVL tree properties (self-balancing through rotations)
+    *   Introduction to `qsort`
+    *   Reading data from a binary file to construct a tree. 
 *   **TP8: Trees: Huffman Coding**
-    *   Implementing a binary tree, using recursion, constructing a tree with a bottom-up approach, and implementing Huffman coding for data compression. Possible use of precompiled code for list management and Huffman methods (`list_teacher.o`, `huffman_method_teacher.o`, `image-proba-teacher.o`). 
+    *   Implementing a binary tree, using recursion
+    *   Constructing a tree with a bottom-up approach, and implementing Huffman coding for data compression
 *   **TP9: Graphs: Dijkstra's Algorithm**
-    *   Implementing functionality for a weighted directed graph using linked lists and implementing Dijkstra's algorithm to find the shortest path between two vertices. 
+    *   Implementing functionality for a weighted directed graph using linked lists
+    *   Implementing Dijkstra's algorithm to find the shortest path between two vertices. 
 
 ---
 ## Credits
